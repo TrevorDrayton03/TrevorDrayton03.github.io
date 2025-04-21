@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.7279f770.css",
-    "main.js": "/static/js/main.61f969db.js",
-    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
+    "main.css": "/static/css/main.5d2f0b76.css",
+    "main.js": "/static/js/main.3eedfcd0.js",
+    "static/js/453.bb257cf5.chunk.js": "/static/js/453.bb257cf5.chunk.js",
     "static/media/petuniverse.png": "/static/media/petuniverse.306432f0eca1eb8c1824.png",
     "static/media/glimpse.png": "/static/media/glimpse.e08c93d0bee344117777.png",
     "static/media/goblinguide.png": "/static/media/goblinguide.d25301e0f5567a1501f4.png",
@@ -12,12 +12,12 @@
     "static/media/portfolio.png": "/static/media/portfolio.14ee89daeb819bf3ebc6.png",
     "static/media/frontpg.png": "/static/media/frontpg.f1e3f75c06a0b1fc25df.png",
     "index.html": "/index.html",
-    "main.7279f770.css.map": "/static/css/main.7279f770.css.map",
-    "main.61f969db.js.map": "/static/js/main.61f969db.js.map",
-    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
+    "main.5d2f0b76.css.map": "/static/css/main.5d2f0b76.css.map",
+    "main.3eedfcd0.js.map": "/static/js/main.3eedfcd0.js.map",
+    "453.bb257cf5.chunk.js.map": "/static/js/453.bb257cf5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7279f770.css",
-    "static/js/main.61f969db.js"
+    "static/css/main.5d2f0b76.css",
+    "static/js/main.3eedfcd0.js"
   ]
 }
